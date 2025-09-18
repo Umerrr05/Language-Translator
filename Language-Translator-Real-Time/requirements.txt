@@ -1,7 +1,5 @@
 streamlit
 openai-whisper
-SpeechRecognition
-pyaudio
-googletrans==4.0.0-rc1
+
 
 
