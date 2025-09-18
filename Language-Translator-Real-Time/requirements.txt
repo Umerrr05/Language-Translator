@@ -5,12 +5,4 @@ pyaudio
 googletrans==4.0.0-rc1
 deep-translator
 gTTS
-pandas
-numpy
-pydub
-ffmpeg-python
-Pillow
-pytesseract
-opencv-python
-PyMuPDF
-yt-dlp
+
