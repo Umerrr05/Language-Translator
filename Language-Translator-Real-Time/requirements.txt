@@ -4,5 +4,13 @@ SpeechRecognition
 googletrans==4.0.0-rc1
 deep-translator
 cgi
-
+pydub
+ffmpeg-python
+numpy
+tempfile
+moviepy
+torch
+langdetect
+requests
+Pillow
 
