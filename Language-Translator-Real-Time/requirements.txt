@@ -11,6 +11,6 @@ pydub
 ffmpeg-python
 Pillow
 pytesseract
-opencv-python
+opencv-python-headless
 PyMuPDF
 yt-dlp
