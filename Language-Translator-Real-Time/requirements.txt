@@ -1,5 +1,5 @@
 streamlit
 openai-whisper
-speech_recognition
+SpeechRecognition 
 
 
