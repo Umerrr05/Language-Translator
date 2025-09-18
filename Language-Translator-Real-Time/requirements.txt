@@ -13,4 +13,4 @@ torch
 langdetect
 requests
 Pillow
-upgradepip
+
